@@ -6,6 +6,7 @@ Requirements
 Python 3.6 or higher TensorFlow 2.0 or higher Hugging Face Transformers library
 
 Installation
+
 1- Clone the repository:
 
 git clone https://github.com/example/Simple-ChatBot.git
